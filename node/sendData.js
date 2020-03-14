@@ -1,5 +1,5 @@
 /*
- * @Description: This is a python file
+ * @Description: This is a javascript file
  * @Author: JeanneWu
  * @Date: 2019-12-15 15:40:59
  */
